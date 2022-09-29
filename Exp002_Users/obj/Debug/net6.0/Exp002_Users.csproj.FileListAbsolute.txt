@@ -1,0 +1,15 @@
+F:\Обучение\Sharp\Examples\Exp002_Users\bin\Debug\net6.0\Exp002_Users.exe
+F:\Обучение\Sharp\Examples\Exp002_Users\bin\Debug\net6.0\Exp002_Users.deps.json
+F:\Обучение\Sharp\Examples\Exp002_Users\bin\Debug\net6.0\Exp002_Users.runtimeconfig.json
+F:\Обучение\Sharp\Examples\Exp002_Users\bin\Debug\net6.0\Exp002_Users.dll
+F:\Обучение\Sharp\Examples\Exp002_Users\bin\Debug\net6.0\Exp002_Users.pdb
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.csproj.AssemblyReference.cache
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.AssemblyInfoInputs.cache
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.AssemblyInfo.cs
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.csproj.CoreCompileInputs.cache
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.dll
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\refint\Exp002_Users.dll
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.pdb
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\Exp002_Users.genruntimeconfig.cache
+F:\Обучение\Sharp\Examples\Exp002_Users\obj\Debug\net6.0\ref\Exp002_Users.dll
