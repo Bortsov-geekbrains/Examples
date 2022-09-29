@@ -1,0 +1,15 @@
+F:\Обучение\Sharp\Examples\Exp001_Hello\bin\Debug\net6.0\Exp001_Hello.exe
+F:\Обучение\Sharp\Examples\Exp001_Hello\bin\Debug\net6.0\Exp001_Hello.deps.json
+F:\Обучение\Sharp\Examples\Exp001_Hello\bin\Debug\net6.0\Exp001_Hello.runtimeconfig.json
+F:\Обучение\Sharp\Examples\Exp001_Hello\bin\Debug\net6.0\Exp001_Hello.dll
+F:\Обучение\Sharp\Examples\Exp001_Hello\bin\Debug\net6.0\Exp001_Hello.pdb
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.csproj.AssemblyReference.cache
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.AssemblyInfoInputs.cache
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.AssemblyInfo.cs
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.csproj.CoreCompileInputs.cache
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.dll
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\refint\Exp001_Hello.dll
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.pdb
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\Exp001_Hello.genruntimeconfig.cache
+F:\Обучение\Sharp\Examples\Exp001_Hello\obj\Debug\net6.0\ref\Exp001_Hello.dll
